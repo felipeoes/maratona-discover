@@ -1,2 +1,3 @@
 # maratona-discover
-Aula 01 finalizada
+Projeto realizado durante a Maratona Discover, evento realizado pela RocketSeat
+
